@@ -2,8 +2,14 @@
 
 ## Overview
 
-Bastion X-Ray is a Firefox extension that allows you to access paywalled articles through the Wayback Machine. This README will guide you through the process of downloading the ZIP repository and running the extension locally in your Firefox browser.
+Bastion X-Ray is a Firefox extension that allows you to access paywalled articles through the Wayback Machine. 
+
+The extension can be found and downloaded easily from Firefox add-ons store: https://addons.mozilla.org/en-US/android/addon/bastion-x-ray/
+
 For the Chrome version of this extension, go to https://github.com/noeljbass/BastionXRay
+
+
+This README will guide you through the process of downloading the ZIP repository and running the extension locally in your Firefox browser.
 
 ## Prerequisites
 
